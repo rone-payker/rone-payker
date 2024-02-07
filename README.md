@@ -1,8 +1,6 @@
-![Full Stack Web Developer & WordPress Developer](https://media.licdn.com/dms/image/D5616AQENt8on180XSg/profile-displaybackgroundimage-shrink_350_1400/0/1703391557864?e=1712793600&v=beta&t=v_Db7fyAWZNcyZpaQU1I1_pdI_8p8dZXM2-RtiQX4bQ)
-
-
 ### Hi there 👋, I'm MD. RONE PAYKER
-#### Full Stack Web Developer & WordPress Developer
+# Full Stack Web Developer & WordPress Developer
+![Full Stack Web Developer & WordPress Developer](https://media.licdn.com/dms/image/D5616AQENt8on180XSg/profile-displaybackgroundimage-shrink_350_1400/0/1703391557864?e=1712793600&v=beta&t=v_Db7fyAWZNcyZpaQU1I1_pdI_8p8dZXM2-RtiQX4bQ)
 
 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗽𝗮𝗴𝗲!
 
@@ -22,10 +20,19 @@ Imagine a website that perfectly mirrors your envisioned appearance and function
 ✅MySQL
 ✅WordPress
 
-- 🔭 I’m currently working on As a Freelancer 
-- 🌱 I’m currently learning PHP/MySQL/JavaScript/MongoDB 
+- 🔭 I’m currently working on As a Freelancer😊
+
+- 🌱 I’m still learning & Practicing on:
+   ❄PHP
+   ❄MySQL
+   ❄JavaScript
+   ❄MongoDB.
+
 - 👯 I’m looking to collaborate on Creating a distinctive, user-friendly website that leaves a lasting impression, attracting visitors and boosting your business. 
-- 💬 Ask me about  
+
+
+
+- 💬 𝗔𝘀𝗸 𝗺𝗲 𝗮𝗯𝗼𝘂𝘁 :
 💠Freelancing opportunities 
 💠WordPress Website Design & Development 
 💠Landing Page Design 
