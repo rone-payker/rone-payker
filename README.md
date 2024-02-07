@@ -51,7 +51,6 @@ Imagine a website that perfectly mirrors your envisioned appearance and function
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/rone-payker/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/rone-payker)  
 
 
 
