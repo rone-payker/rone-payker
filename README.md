@@ -53,5 +53,5 @@ Imagine a website that perfectly mirrors your envisioned appearance and function
 
 ![GitHub metrics](https://metrics.lecoq.io/rone-payker)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=rone-payker)  
+
 
