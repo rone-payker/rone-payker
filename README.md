@@ -1,21 +1,35 @@
 ![Full Stack Web Developer & WordPress Developer](https://media.licdn.com/dms/image/D5616AQENt8on180XSg/profile-displaybackgroundimage-shrink_350_1400/0/1703391557864?e=1712793600&v=beta&t=v_Db7fyAWZNcyZpaQU1I1_pdI_8p8dZXM2-RtiQX4bQ)
 
+
 ### Hi there 👋, I'm MD. RONE PAYKER
 #### Full Stack Web Developer & WordPress Developer
 
+𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗽𝗮𝗴𝗲!
 
-Welcome to my page!
 I'm a dedicated freelance web designer and developer with a passion for technology, design, and innovation. I love what I do because it allows me the flexibility to bring your web visions to life on your schedule.
 
 Imagine a website that perfectly mirrors your envisioned appearance and functionalities, elevating user experience and driving business growth. With over 2+ years of solid experience, I specialize in creating stunning, professional WordPress websites that capture attention.
 
 
-Skills:   HTML / CSS/Bootstrap/Tailwind CSS /JavaScript/PHP/MySQL/WordPress
+🛃𝐒𝐤𝐢𝐥𝐥𝐬 & 𝐄𝐱𝐩𝐞𝐫𝐢𝐚𝐧𝐜𝐞:
+
+✅HTML 
+✅CSS
+✅Bootstrap
+✅Tailwind CSS
+✅JavaScript
+✅PHP
+✅MySQL
+✅WordPress
 
 - 🔭 I’m currently working on As a Freelancer 
 - 🌱 I’m currently learning PHP/MySQL/JavaScript/MongoDB 
 - 👯 I’m looking to collaborate on Creating a distinctive, user-friendly website that leaves a lasting impression, attracting visitors and boosting your business. 
-- 💬 Ask me about  Freelancing Opportunites, Wordpress Website design & Development, Landing Page Design, Website Development by HTML, CSS & JavaScript 
+- 💬 Ask me about  
+💠Freelancing opportunities 
+💠WordPress Website Design & Development 
+💠Landing Page Design 
+💠Website Development by HTML, CSS & JavaScript 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rone-payker)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/MD. RONE PAYKER/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/MD. RONE PAYKER)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ronepayker.com/PortfolioWebsite/)  
