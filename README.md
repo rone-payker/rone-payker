@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm MD. RONE PAYKER
-# Full Stack Web Developer & WordPress Developer
-![Full Stack Web Developer & WordPress Developer](https://media.licdn.com/dms/image/D5616AQENt8on180XSg/profile-displaybackgroundimage-shrink_350_1400/0/1703391557864?e=1712793600&v=beta&t=v_Db7fyAWZNcyZpaQU1I1_pdI_8p8dZXM2-RtiQX4bQ)
+# Full Stack Web Developer & WordPress Developer | Woo-Commerce Expert 
 
 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗽𝗮𝗴𝗲!
 
